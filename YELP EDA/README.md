@@ -2,7 +2,7 @@
 <h1> YELP Exploratory Data Analysis
 <br>
 <!-- <img src="[YELP EDA/yelp.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fad%2FYelp_Logo.svg%2F2560px-Yelp_Logo.svg.png&tbnid=ayZAWUxeI79FnM&vet=12ahUKEwjF_re19cn-AhVVG7cAHfhNAaoQMygAegUIARDbAQ..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AYelp_Logo.svg&docid=x9bNozOTWWRhgM&w=2560&h=1035&q=yelp%20logo&ved=2ahUKEwjF_re19cn-AhVVG7cAHfhNAaoQMygAegUIARDbAQ)" alt="Yelp Logo" width="200" height="100"> -->
-![Alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fad%2FYelp_Logo.svg%2F2560px-Yelp_Logo.svg.png&tbnid=ayZAWUxeI79FnM&vet=12ahUKEwjF_re19cn-AhVVG7cAHfhNAaoQMygAegUIARDbAQ..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AYelp_Logo.svg&docid=x9bNozOTWWRhgM&w=2560&h=1035&q=yelp%20logo&ved=2ahUKEwjF_re19cn-AhVVG7cAHfhNAaoQMygAegUIARDbAQ)
+![Alt text]("https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fad%2FYelp_Logo.svg%2F2560px-Yelp_Logo.svg.png&tbnid=ayZAWUxeI79FnM&vet=12ahUKEwjF_re19cn-AhVVG7cAHfhNAaoQMygAegUIARDbAQ..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AYelp_Logo.svg&docid=x9bNozOTWWRhgM&w=2560&h=1035&q=yelp%20logo&ved=2ahUKEwjF_re19cn-AhVVG7cAHfhNAaoQMygAegUIARDbAQ")
 <h1>
 </div>  
   
