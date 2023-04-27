@@ -1,4 +1,4 @@
-# YELP Exploratory Data Analysis
+# YELP Exploratory Data Analysis ![Alt text](yelp.com)
 This project is Analysis of [YELP](https://www.yelp.com/)
 
 **Yelp is a** : Yelp Inc. is an American company that develops the Yelp.com website and the Yelp mobile app, which publish crowd-sourced reviews about businesses. It also operates Yelp Guest Manager, a table reservation service. It is headquartered in San Francisco, California. 
