@@ -1,7 +1,7 @@
 <div align="center">
 <h1> YELP Exploratory Data Analysis
 <br>
-<img src="yelp.png" alt="Yelp Logo" width="200" height="100">
+<img src="YELP EDA/yelp.png" alt="Yelp Logo" width="200" height="100">
 <h1>
 </div>  
 This project is Analysis of [YELP](https://www.yelp.com/)
