@@ -19,8 +19,11 @@ and figuring out what makes a restaurant good, popular in customers, and then ma
 We have to analyze customer review, and figure out reasons for a customer to like or dislike a Restaurant and Cuisine.
 
 A customer rates restaurant on the basis of:
->  How friendly you staff is ? -> lead to Positive Reviews
->  Cost of food ? -> if high prices : Negative reviews
+>  How friendly you staff is
+>> lead to Positive Reviews
+
+>  Cost of food >
+>> if high prices : Negative reviews
 
 ---
 
