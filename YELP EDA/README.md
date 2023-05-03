@@ -1,9 +1,12 @@
 <div align="center">
 <h1> YELP Exploratory Data Analysis
 <br>
-<img src="yelp.png" alt="Yelp Logo" width="200" height="100">
-<h1>
+<!-- <img src="[YELP EDA/yelp.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fad%2FYelp_Logo.svg%2F2560px-Yelp_Logo.svg.png&tbnid=ayZAWUxeI79FnM&vet=12ahUKEwjF_re19cn-AhVVG7cAHfhNAaoQMygAegUIARDbAQ..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AYelp_Logo.svg&docid=x9bNozOTWWRhgM&w=2560&h=1035&q=yelp%20logo&ved=2ahUKEwjF_re19cn-AhVVG7cAHfhNAaoQMygAegUIARDbAQ)" alt="Yelp Logo" width="200" height="100"> -->
+
+![yelp](https://user-images.githubusercontent.com/65236997/234844970-8b06e788-f883-42ae-af2b-1f484c0c6ab3.png)
+
 </div>  
+  
 This project is Analysis of [YELP](https://www.yelp.com/)
 
 **Yelp is a** : Yelp Inc. is an American company that develops the Yelp.com website and the Yelp mobile app, which publish crowd-sourced reviews about businesses. It also operates Yelp Guest Manager, a table reservation service. It is headquartered in San Francisco, California. 
