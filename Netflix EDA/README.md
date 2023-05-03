@@ -30,4 +30,20 @@ In this project, I have interpreted different kinds of analysis.
 ### Top Genres in Series
 <img src="Top genres in Series.png" height=600px, width=800px>
 
+--- ---
+### Most languages used in Movies
+<img src="most lang used in Movies.png" height=600px, width=800px>
+
+--- --- ---
+### Top 10 Langues used in Series
+<img src="top 10 lang in series.png" height=600px, width=800px>
+
+--- --- ---
+### Top 10 Movies
+<img src="top 10 movies.png" height=600px, width=800px>
+
+--- --- ---
+### Top 10 Rotten Tomatoes Movies
+<img src="top 10 RT movies.png" height=600px, width=800px>
+
 
