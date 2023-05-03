@@ -19,5 +19,15 @@ In this project, I have interpreted different kinds of analysis.
 **What are the top 10 movies and series.**<br>
 </div>
 
-<img src="Netflix vs Series.png">
+<br>
+
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+### Movies vs Series
+<img src="Netflix vs Series.png" height=300px, width=500px>
+
+--- --- ---
+### Top Genres in Series
+<img src="top genres in Series.png" height=600px, width=500px>
+
 
