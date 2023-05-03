@@ -28,6 +28,6 @@ In this project, I have interpreted different kinds of analysis.
 
 --- --- ---
 ### Top Genres in Series
-<img src="Top genres in Series.png" height=600px, width=500px>
+<img src="Top genres in Series.png" height=600px, width=800px>
 
 
