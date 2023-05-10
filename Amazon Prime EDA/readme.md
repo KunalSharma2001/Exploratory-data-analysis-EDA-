@@ -1,5 +1,5 @@
 # Amazon Data Analysis
-<img src="amazon prime.jpeg" height=300px, width=600px>
+<img src="Images/amazon prime.jpeg" height=300px, width=600px>
 
 --------------------------------------------------------
 <div align="center">
